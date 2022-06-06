@@ -8,6 +8,8 @@ Project created to allow users to create users, projects and tasks.
 
 * npm install
 * npm run migration
+* create a .env file into the project root directory and create a TOKEN_KEY
+example: TOKEN_KEY=1234
 
 2nd step: access the following swagger documentation
 
